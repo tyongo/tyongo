@@ -5,7 +5,7 @@ Bioinformatics MSc graduate focused on building reproducible pipelines and analy
 **Core areas:** Metabolomics (RT matching), RNA-seq differential expression, NGS variant calling, proteomics FDR/quant, and workflow automation (HPC/Nextflow).
 
 ## Start here
-➡️ **Portfolio hub:** https://github.com/<tyongo>/bioinformatics-portfolio
+➡️ **Portfolio hub:** https://github.com/tyongo/bioinformatics-portfolio
 
 ## Skills
 Python • R • Linux • Git • Conda • Nextflow • Docker/Singularity • SLURM • QC/validation • statistical modelling
